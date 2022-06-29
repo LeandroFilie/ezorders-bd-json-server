@@ -1,0 +1,14 @@
+{
+  "name": "ezorders-bd-json-server",
+  "version": "1.0.0",
+  "description": "fake-server for ezorders",
+  "main": "server.js",
+  "author": "LeandroFilie",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
